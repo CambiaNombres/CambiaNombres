@@ -1,23 +1,12 @@
-```html
-<!DOCTYPE html>
-<html lang="es">
-<head>
-	<meta charset="UTF-8">
-	<title>Mi README en español</title>
-</head>
-<body>
-	<header class="header">
-		<h1 class="header__h1">Mi README en español</h1>
-	</header>
-</body>
-</html>
-```
-
-## Hola
-
-### Actualmente estoy...
-- Trabajando en mejorar mis habilidades de programación
-- Aprendiendo Python
+## Hello 
+<details>
+	<summary><h3>I'm currently working on...</h3></summary>
+	<ul>
+		<li>Be a better developer.</li>
+		<li>Learn python.</li>
+		<li>Start my own projects.</li>
+	</ul>
+</details>
 
 <!--
 **CambiaNombres/CambiaNombres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
