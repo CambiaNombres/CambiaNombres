@@ -2,12 +2,26 @@
 <details>
 	<summary><h3>I'm currently working on...</h3></summary>
 	<ul>
-		<li>Be a better developer.</li>
-		<li>Learn python.</li>
-		<li>Start my own projects.</li>
+		<li><h4>Be a better developer.</h4></li>
+		<li><h4>Learn python.</h4></li>
+		<li>
+			<details>
+				<summary><h4>Start my own projects, like:</h4></summary>
+				<ul>
+					<li>My blog</li>
+				</ul>
+			</details>
+		</li>
 	</ul>
 </details>
-
+<details>
+	<summary><h3>I'm interested in...</h3></summary>
+	<ol>
+		<li><h4>AI</h4></li>
+		<li><h4>Web</h4></li>
+		<li><h4>Videogames</h4></li>
+	</ol>
+</details>
 <!--
 **CambiaNombres/CambiaNombres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
